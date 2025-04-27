@@ -19,6 +19,6 @@ April 24th 2025
 # Assignment Completion:
 April 27th 2025
 # Total Hours for Assignment:
-1.5 HOURS
+2.5 HOURS
 # Comments:
 One thing I liked about this assignment was the fundamental basis that you can literally build anything in Java and the concept of online games is just like this.
